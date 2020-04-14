@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3296FA</color>
+    <color name="colorPrimaryDark">#3296FA</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_shared">#9CEBEB</color>
+    <color name="white">#fff</color>
+    <color name="f5">#f5f5f5</color>
+    <color name="b3">#B3B3B3</color>
+    <color name="color333">#333333</color>
+    <color name="colore6">#e6e6e6</color>
+    <color name="black">#000000</color>
+
+    <color name="circle">#7788cc</color>
+    <color name="square">#ee5500</color>
+    <color name="triangle">#00bb00</color>
+</resources>
